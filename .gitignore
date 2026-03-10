@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Spark / Hadoop ---
+spark-warehouse/
+derby.log
+metastore_db/
+checkpoint/
+*.lzo
+*.crc
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
+

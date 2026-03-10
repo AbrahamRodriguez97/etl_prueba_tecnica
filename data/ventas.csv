@@ -1,0 +1,7 @@
+id_transaccion,fecha,producto,cantidad,precio_unitario,cliente_id
+1,2023-10-01,Laptop,1,1200.50,C001
+2,2023-10-01,Mouse,2,25.00,C002
+3,,Teclado,1,45.00,C003
+4,2023-10-02,Monitor,,300.00,C001
+5,2023-10-03,Audifonos,1,50.00,
+6,2023-10-03,Laptop,1,1200.50,C004
