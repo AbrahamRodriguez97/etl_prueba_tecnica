@@ -24,12 +24,15 @@ mi-primer-etl-spark/
 ## Evidencias
 
 Extracción
+
 <img width="609" height="216" alt="image" src="https://github.com/user-attachments/assets/9c71b8e2-49f7-4b98-b459-92b4fc999ce7" />
 
 Transformacion
+
 <img width="710" height="206" alt="image" src="https://github.com/user-attachments/assets/69dba639-78ec-410d-ac5a-cbb77029578a" />
 
 Carga
+
 <img width="527" height="191" alt="image" src="https://github.com/user-attachments/assets/fc855eb0-a142-4c0d-83d4-60467ccd06fc" />
 
 
