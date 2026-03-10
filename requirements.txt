@@ -1,0 +1,6 @@
+# Motor de procesamiento
+pyspark>=3.0.0
+
+# Dependencias para notebooks 
+ipykernel
+pandas
